@@ -11,10 +11,6 @@
 ![Last commit](https://img.shields.io/github/last-commit/LiamProsser77/gronnfalk)
 ![GitHub stars](https://img.shields.io/github/stars/LiamProsser77/gronnfalk)
 
-<p align="center">
-  <strong>"The simple soap search"</strong><br/>
-</p>
-
 ZelyonyySokol is an open-source, privacy-focused metasearch engine built for a simple and independent search experience, being a fork of GronnFalk.
 
 <details>
