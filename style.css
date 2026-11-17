@@ -150,48 +150,45 @@ body {
     stroke-linecap: round;
 }
 
-/* Lime green corner triangles */
+/* Russian flag corner triangles */
 
 .corner {
     position: fixed;
-
     width: 0;
     height: 0;
-
     z-index: 2;
-
     pointer-events: none;
 }
+
+/* White corners */
 
 .corner-top-left {
     top: 0;
     left: 0;
-
-    border-top: 100px solid var(--corner);
+    border-top: 100px solid #FFFFFF;
     border-right: 100px solid transparent;
 }
 
 .corner-top-right {
     top: 0;
     right: 0;
-
-    border-top: 100px solid var(--corner);
+    border-top: 100px solid #FFFFFF;
     border-left: 100px solid transparent;
 }
+
+/* Blue corners */
 
 .corner-bottom-left {
     bottom: 0;
     left: 0;
-
-    border-bottom: 100px solid var(--corner);
+    border-bottom: 100px solid #0039A6;
     border-right: 100px solid transparent;
 }
 
 .corner-bottom-right {
     bottom: 0;
     right: 0;
-
-    border-bottom: 100px solid var(--corner);
+    border-bottom: 100px solid #0039A6;
     border-left: 100px solid transparent;
 }
 
